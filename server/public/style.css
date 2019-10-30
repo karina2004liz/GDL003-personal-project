@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://i.ibb.co/rMmQn5w/ambiente.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Aclonica', sans-serif;
+  
+
+}
+
+header{
+    float: right;
+    
+}
+
+h1{
+    font-size: 3rem;
+    color:white;
+}
+
+h2{
+    font-size: 14rem;
+}
+
+#root{
+
+    margin-left:4rem;
+}
+
+.buttons{
+
+    background-color: black;
+
+    opacity: 0.8;
+    color: white;
+    border: transparent;
+    border-radius: .5rem ;
+    padding: 1rem ;
+    font-family: 'Aclonica', sans-serif;
+    width: 8rem ;
+}
+
+.buttons:hover{
+
+   opacity: 1;
+}
