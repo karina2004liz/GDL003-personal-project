@@ -1,13 +1,13 @@
-# Titulo
+# Sensor de Temperatura con JavaScript y Arduino
 
 ## Preámbulo
-Aquí nos darás un intro sobre tu proyecto, puede ser tanto la problemática que vas a resolver o el objetivo del proyecto. 
+Se utiliza node.js con JavaScript para darle funcionalidad a un sensor de Temperatura con Arduino 
 
 ## Introducción
 Parecido al preámbulo, solo que nos darás más información sobre el proyecto.
 
 ## Objetivos de aprendizaje
-¿Qué aprenderás con este proyecto? Si tienes dudas, puedes acercarte a los coaches para aterrizar estos objetivos
+Se aprende a usar JavaSript no sólo de manera virtual, en este caso se le dará funcionalidad a un Objeto con Arduino, nuestro objeto es un Sensor de Temperatira LM35.
 
 ## Consideraciones Generales
 Las reglas del juego para tu proyecto. Como te vas a organizar, que cosas se pueden utilizar, etc.
